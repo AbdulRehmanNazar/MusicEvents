@@ -7,8 +7,9 @@
 
 # MVVM Clean architecture with JetPack Compose, Pagination, Room for offline support
 Advanced tech application design and development using JetPack Compose, MVVM architecture, pagination support Room for offline support, state-managment <br />
-## Video Demo
-<video src="https://github.com/AbdulRehmanNazar/MusicEvents/assets/6792823/ca7210cd-7420-4104-a435-79fb41eb8baf" />
+
+## Youtube video demo link
+https://youtube.com/shorts/E5s2fX_pA3c?feature=share
 
 ## Author:
 <a href="https://github.com/AbdulRehmanNazar" target="_blank">
@@ -19,9 +20,10 @@ Advanced tech application design and development using JetPack Compose, MVVM arc
 <br />
 <br />
 
+<a href="https://github.com/AbdulRehmanNazar/MusicEvents/blob/main/APK/app-debug.apk">Download demo Application</a>
+
+
 ## License:
-
-
 Copyright 2024 Abdul Rehman Nazar
 <br />
 
@@ -36,5 +38,12 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+## Video Demo
+<video src="https://github.com/AbdulRehmanNazar/MusicEvents/assets/6792823/eada48a1-6d98-4102-8f1a-1e6b22fda2a2" />
+
+
+
 
 
