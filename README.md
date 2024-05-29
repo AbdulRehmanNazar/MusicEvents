@@ -1,2 +1,3 @@
-# MusicEvents
-MusicEvents using Compose, Pagination, Searching with MVVM architecture and state managment
+# MVVM Clean architecture with JetPack Compose using NavGraph
+
+
